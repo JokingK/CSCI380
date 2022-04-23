@@ -1,14 +1,5 @@
 import React from 'react';
 //dibiwboiwb
-import {
-  View,
-  Text,
-  TouchableOpacity,
-  Dimensions,
-  StyleSheet,
-  StatusBar,
-  Image
-} from 'react-native';
 
 import { NavigationContainer } from '@react-navigation/native'; //https://reactnavigation.org/docs/getting-started/
 
